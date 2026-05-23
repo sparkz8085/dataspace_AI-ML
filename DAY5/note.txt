@@ -1,0 +1,12 @@
+Load the Students.csv file into a Pandas DataFrame and display all records.
+Display only the Name and Marks columns.
+Find all students who scored more than 85 marks.
+Display the details of students from Kolkata.
+Find the average marks of all students.
+Display the student(s) who scored the highest marks.
+Count the number of students in each city.
+Create a new column called Status:
+Marks ≥ 80 → "Pass"
+Marks < 80 → "Fail"
+Sort the DataFrame by Marks in descending order and display the top 3 students.
+Find the average marks of students grouped by Gender.

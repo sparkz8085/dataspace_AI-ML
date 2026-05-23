@@ -1,0 +1,9 @@
+StudentID,Name,Age,Gender,Marks,City,Status
+105,Arjun,20,M,95,Chennai,Pass
+102,Priya,21,F,92,Delhi,Pass
+108,Pooja,20,F,90,Kolkata,Pass
+104,Sneha,22,F,88,Kolkata,Pass
+101,Amit,20,M,85,Kolkata,Pass
+106,Neha,21,F,81,Delhi,Pass
+103,Rahul,19,M,78,Mumbai,Fail
+107,Karan,23,M,67,Mumbai,Fail
