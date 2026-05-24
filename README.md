@@ -9,3 +9,5 @@ This repository contains the so-called “AI-ML internship” tasks provided by 
 - Mostly waste of time, money, and effort  
 
 > Paid ₹750 just to receive random tasks and an internship certificate.
+
+.. / .- -- / -.. . -... .- ... .. ... / .- -. -.. / .. / .--. .-. --- ..- -.. .-.. -.-- / ... .- -.-- / - .... .- - / .. / .- -- / .- / --. .- -.--
